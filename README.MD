@@ -4,6 +4,6 @@ This repository gathers 3 use cases that were selected as part of the collaborat
 
 Please check the readme in each folder for more details. 
 
-- cyber criticality index ([here](cyber_index/README.md)),
-- gas disruption index ([here](gas_disruption/README.md))
-- supported building renovation measures ([here](renov/README.md)),
+- cyber criticality index ([here](cyber_index)),
+- gas disruption index ([here](gas_disruption))
+- supported building renovation measures ([here](renov)),
