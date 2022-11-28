@@ -1,0 +1,20 @@
+name: renov
+channels:
+  - conda-forge
+  - defaults
+  - plotly
+dependencies:
+  - python=3.10
+  - numpy=1.22.3
+  - pandas=1.4.2
+  - xlrd=2.0.1
+  - openpyxl=3.0.10
+  - matplotlib=3.5.1
+  - seaborn=0.11.2
+  - tqdm=4.64.0
+  - statsmodels=0.13.2
+  - ipykernel
+  - conda-forge::geopandas
+  - beautifulsoup4
+  - plotly::plotly_express
+  - conda-forge::nbformat 

@@ -1,0 +1,22 @@
+name: cyberindex
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - ipython
+  - ipykernel
+  - openpyxl
+  - conda-forge::odfpy
+  - requests
+  - tqdm
+  - scikit-learn
+  - scikit-learn-extra
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - geopandas
+  - shap
+  - py-xgboost
+  - umap-learn
